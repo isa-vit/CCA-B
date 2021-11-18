@@ -9,7 +9,9 @@ firebase_admin.initialize_app(cred)
 
 db = firestore.client()
 
-result = db.collection(u'Events').stream()
+result = db.collection(u'Flagships').stream()
 
+for doc in result:
+    print(f'{doc.id} => {doc.to_dict()}', end="\n\n")
 
-print(events)
+print(result)
