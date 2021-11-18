@@ -1,3 +1,7 @@
+'''
+    Append event details here
+'''
+
 events = [
     {
         'title': 'Artificial Intelligence in Healthcare',

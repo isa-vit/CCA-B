@@ -10,7 +10,6 @@ firebase_admin.initialize_app(cred)
 
 db = firestore.client()
 
-
 def addCompleteData(collection_name="safety_collection"):
     '''
     Function to add whole collection into firestore
@@ -39,7 +38,7 @@ def addCompleteData(collection_name="safety_collection"):
 
 def addNewTechnitude(collection_name="safety_collection"):
     '''
-    Function to add whole collection into firestore
+    Function to add new event intp firebase collection, append a new disctionary in the data file.
     '''
 
     db.collection(collection_name).add(events[-1])

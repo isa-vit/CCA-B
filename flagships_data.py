@@ -1,3 +1,7 @@
+'''
+    Append flagship details here
+'''
+
 flagships = [
 
     {
