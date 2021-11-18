@@ -93,5 +93,14 @@ events = [
         'content': 'We are excited to bring to you this cracking series of technitudes that will launch you into the awesome world of data science with Python!',
         'youtube': 'https://youtu.be/t4jjZPTF8jE',
         'link': 'https://meet.google.com/qaf-serk-nnw'
+    },
+
+        {
+        'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Technitudes%2Fthreejs.png?alt=media&token=49211866-a6fc-49c0-b49e-db7224fe0d69',
+        'open': True,
+        'title': 'Intro to Web Dev - ThreeJS and WebGL',
+        'content': 'We will learn what WebGL is and why using the Three.js library is a must. Basics of Three.js & also introduce guiding the advance levels.',
+        'youtube': '-',
+        'link': 'http://meet.google.com/jth-vngh-psj'
     }
 ]
