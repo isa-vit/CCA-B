@@ -38,7 +38,7 @@ def addCompleteData(collection_name="safety_collection"):
 
 def addNewTechnitude(collection_name="safety_collection"):
     '''
-    Function to add new event intp firebase collection, append a new disctionary in the data file.
+    Function to add new event into firebase collection, append a new dictionary in the data file.
     '''
 
     db.collection(collection_name).add(events[-1])
