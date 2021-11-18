@@ -1,4 +1,5 @@
 flagships = [
+
     {
         'content': "Hands-on, project-based Event of graVITas'20!  Speaker (Day 1) - Nilansh Bansal, Senior Engineer at Crediwatch Information Analytics Pvt Ltd. Speaker (Day 2) - Pandian Muninathan, Senior Data Analyst at Zudo",
         'link': '-',
@@ -20,7 +21,7 @@ flagships = [
     {
         'youtube': 'https://www.youtube.com/watch?v=uqwZqacOpW4',
         'open': False,
-        'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Flagships%2Fihack.png?alt=media&token=7ef161e1-ff80-4de8-9e84-0db4fdda1c07', 
+        'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Flagships%2Fihack.png?alt=media&token=7ef161e1-ff80-4de8-9e84-0db4fdda1c07',
         'content': "A 48-hour hackathon and the cornerstone for SPARK'21. It is not just any other hackathon, but also a perfect stepping stone to ignite a creative SPARK in newcomers and seasoned veterans alike.",
         'link': '-',
         'title': "Spark'21"
