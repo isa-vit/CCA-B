@@ -3,7 +3,7 @@ import db_operations
 '''
 To read collection
 '''
-# db_operations.readCompleteData("Flaghips")
+db_operations.readCompleteData("Flaghips")
 
 '''
 To write an event into collection
@@ -13,4 +13,4 @@ To write an event into collection
 '''
 To write a whole collection
 '''
-db_operations.addCompleteData("Events")
+# db_operations.addCompleteData("Events")
