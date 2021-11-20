@@ -95,12 +95,21 @@ events = [
         'link': 'https://meet.google.com/qaf-serk-nnw'
     },
 
-        {
+    {
         'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Technitudes%2Fthreejs.png?alt=media&token=49211866-a6fc-49c0-b49e-db7224fe0d69',
-        'open': True,
+        'open': False,
         'title': 'Intro to Web Dev - ThreeJS and WebGL',
         'content': 'We will learn what WebGL is and why using the Three.js library is a must. Basics of Three.js & also introduce guiding the advance levels.',
-        'youtube': '-',
+        'youtube': 'https://www.youtube.com/watch?v=xCD_llFZLEg',
         'link': 'http://meet.google.com/jth-vngh-psj'
+    },
+
+    {
+        'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Technitudes%2FAR.png?alt=media&token=beaf3078-6c17-4d02-8203-db5576335bab',
+        'open': True,
+        'title': 'Applications of AR in Interactive Technology',
+        'content': 'We bring you to a technical session based on AUGMENTED REALITY! It will be delivered by our guest speaker - Medha Srivastava',
+        'youtube': '-',
+        'link': 'https://meet.google.com/uok-uiwe-ozv'
     }
 ]
