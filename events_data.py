@@ -106,10 +106,19 @@ events = [
 
     {
         'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Technitudes%2FAR.png?alt=media&token=beaf3078-6c17-4d02-8203-db5576335bab',
-        'open': True,
+        'open': False,
         'title': 'Applications of AR in Interactive Technology',
         'content': 'We bring you to a technical session based on AUGMENTED REALITY! It will be delivered by our guest speaker - Medha Srivastava',
-        'youtube': '-',
+        'youtube': 'https://www.youtube.com/watch?v=HtkZ6xJZ-FU',
         'link': 'https://meet.google.com/uok-uiwe-ozv'
+    },
+
+    {
+        'poster': 'https://firebasestorage.googleapis.com/v0/b/isa-vit.appspot.com/o/Technitudes%2Fml.png?alt=media&token=56a723e2-258b-47f1-b21f-4512f707c8c7',
+        'open': True,
+        'title': 'Applications of ML in Preventing Accidents',
+        'content': 'Join us to learn hands-on how to prevent road accidents using ML libraries in python like NumPy and Pandas.',
+        'youtube': '-',
+        'link': 'http://meet.google.com/dsy-crkq-npx'
     }
 ]
